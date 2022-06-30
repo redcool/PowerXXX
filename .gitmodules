@@ -1,0 +1,6 @@
+[submodule "PowerUtilities"]
+	path = PowerUtilities
+	url = https://github.com/redcool/PowerUtilities.git
+[submodule "PowerPBS"]
+	path = PowerPBS
+	url = https://github.com/redcool/PowerPBS.git
