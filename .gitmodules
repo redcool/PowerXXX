@@ -4,3 +4,21 @@
 [submodule "PowerPBS"]
 	path = PowerPBS
 	url = https://github.com/redcool/PowerPBS.git
+[submodule "PowerCartoonPrj"]
+	path = PowerCartoonPrj
+	url = https://github.com/redcool/PowerCartoonPrj.git
+[submodule "PowerFur"]
+	path = PowerFur
+	url = https://github.com/redcool/PowerFur.git
+[submodule "PowerVFX"]
+	path = PowerVFX
+	url = https://github.com/redcool/PowerVFX.git
+[submodule "PowerLit"]
+	path = PowerLit
+	url = https://github.com/redcool/PowerLit
+[submodule "PowerPost"]
+	path = PowerPost
+	url = https://github.com/redcool/PowerPost.git
+[submodule "PowerWater"]
+	path = PowerWater
+	url = https://github.com/redcool/PowerWater.git
