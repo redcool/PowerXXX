@@ -22,3 +22,21 @@
 [submodule "PowerWater"]
 	path = PowerWater
 	url = https://github.com/redcool/PowerWater.git
+[submodule "PowerGrassPrj"]
+	path = PowerGrassPrj
+	url = https://github.com/redcool/PowerGrassPrj.git
+[submodule "PowerTerrainGenerator"]
+	path = PowerTerrainGenerator
+	url = https://github.com/redcool/PowerTerrainGenerator.git
+[submodule "PowerMatCap"]
+	path = PowerMatCap
+	url = https://github.com/redcool/PowerMatCap.git
+[submodule "SceneFog"]
+	path = SceneFog
+	url = https://github.com/redcool/SceneFog.git
+[submodule "pbrTemplatePrj"]
+	path = pbrTemplatePrj
+	url = https://github.com/redcool/pbrTemplatePrj.git
+[submodule "DaytimeAnimtion"]
+	path = DaytimeAnimtion
+	url = https://github.com/redcool/DaytimeAnimtion.git
