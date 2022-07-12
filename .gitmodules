@@ -40,3 +40,6 @@
 [submodule "DaytimeAnimtion"]
 	path = DaytimeAnimtion
 	url = https://github.com/redcool/DaytimeAnimtion.git
+[submodule "PowerShaderLib"]
+	path = PowerShaderLib
+	url = https://github.com/redcool/PowerShaderLib.git
