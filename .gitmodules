@@ -40,7 +40,3 @@
 [submodule "DaytimeAnimtion"]
 	path = DaytimeAnimtion
 	url = https://github.com/redcool/DaytimeAnimtion.git
-
-[submodule "PowerGradient"]
-	path = PowerGradient
-	url = https://github.com/redcool/PowerGradient.git
