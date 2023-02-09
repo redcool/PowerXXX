@@ -43,3 +43,9 @@
 [submodule "PowerShaderLib"]
 	path = PowerShaderLib
 	url = https://github.com/redcool/PowerShaderLib.git
+[submodule "crp"]
+	path = crp
+	url = https://github.com/redcool/crp.git
+[submodule "BehaviourTreePrj"]
+	path = BehaviourTreePrj
+	url = https://github.com/redcool/BehaviourTreePrj.git
