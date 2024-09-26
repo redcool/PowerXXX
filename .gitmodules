@@ -46,3 +46,9 @@
 [submodule "BehaviourTreePrj"]
 	path = BehaviourTreePrj
 	url = https://github.com/redcool/BehaviourTreePrj.git
+[submodule "CSharpScript"]
+	path = CSharpScript
+	url = https://github.com/redcool/CSharpScript.git
+[submodule "MiniHttpServer"]
+	path = MiniHttpServer
+	url = https://github.com/redcool/MiniHttpServer.git
