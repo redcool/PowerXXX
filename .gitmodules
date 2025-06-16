@@ -52,3 +52,6 @@
 [submodule "MiniHttpServer"]
 	path = MiniHttpServer
 	url = https://github.com/redcool/MiniHttpServer.git
+[submodule "AnimTexture"]
+	path = AnimTexture
+	url = https://github.com/redcool/AnimTexture.git
